@@ -6,18 +6,6 @@
   display: flex;
   position: relative;
 }
- 
-.outline-button-button {
-  color: var(--dl-color-gray-black);
-  padding-top: var(--dl-layout-space-unit);
-  border-color: var(--dl-color-primary-100);
-  border-width: 1px;
-  padding-left: var(--dl-layout-space-doubleunit);
-  border-radius: 50px;
-  padding-right: var(--dl-layout-space-doubleunit);
-  padding-bottom: var(--dl-layout-space-unit);
-  background-color: var(--dl-color-gray-white);
-}
 
 .place-card-container1 {
   width: 300px;
@@ -50,7 +38,6 @@
 }
  
 .place-card-text2 {
-  font-size: 12px;
   max-width: 250px;
   margin-bottom: var(--dl-layout-space-doubleunit);
 }
